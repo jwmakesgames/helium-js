@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "axios": "^0.24.0",
-    "qs": "^6.10.3"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "@types/qs": "^6.9.7",
